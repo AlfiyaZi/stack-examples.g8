@@ -1,0 +1,1 @@
+object Global extends com.typesafe.play.mini.SetupJavaApplicationFor[$organization_type$.$organization_name$.App]

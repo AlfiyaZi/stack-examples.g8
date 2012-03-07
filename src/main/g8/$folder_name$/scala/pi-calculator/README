@@ -1,0 +1,14 @@
+=====================
+PI CALCULATION APP
+=====================
+
+This is a very simple Pi calculator. It demonstrates:
+
+- How to use Akka and Play together
+- How to send an Actor message to the response asynchronously
+
+============
+HOW TO START
+============
+
+sbt run

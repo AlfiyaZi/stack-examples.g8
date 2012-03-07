@@ -1,0 +1,15 @@
+=====================
+AKKA CHAT SAMPLE APP
+=====================
+
+This is a very simple Chat application that's build on Akka. It demonstrates:
+
+- How to use Akka and Play together
+- Creating a Comet connection
+- Mapping Akka messages to the response in chunks
+
+============
+HOW TO START
+============
+
+sbt run
