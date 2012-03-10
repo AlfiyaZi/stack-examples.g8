@@ -1,0 +1,6 @@
+A bunch of useful samples for the Typesafe Stack (http://typesafe.com/stack).
+
+For information about each one of the samples in this module see the individual README files
+in: 
+* 'java/<module-name>/README'
+* 'scala/<module-name>/README'
